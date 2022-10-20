@@ -1,10 +1,11 @@
 # Exercício 3
 
 
-a)Crie 4 funções, cada uma deve receber dois parâmetros numéricos e `retornar` o valor de uma das operações básicas (soma, subtração, multiplicação e divisão).
+a)Crie 4 funções, cada uma deve receber dois parâmetros numéricos e retornar o valor de uma das operações básicas (soma, subtração, multiplicação e divisão).
 
-b)Em seguida, fora das funções,  peça para o usuário digitar dois números.
+b) Em seguida, fora das funções, receba do usuário dois números e armazene em variáveis.
 
-c)Crie variáveis que recebam o retorno de cada função e  chame essas 4 funções com esses valores inputados pelo usuário como o argumento.
+c) Invoque cada uma das 4 funções, passando como argumento os dois números recebidos do usuário.
 
-d)Por fim, imprima no console o resultado das operações
+d) Por fim, crie variáveis para receber o retorno de cada uma das funções e imprima o resultado das operações no console.
+
