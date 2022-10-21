@@ -1,4 +1,4 @@
-# A017 - Funcões
+# Funcões - Exercício
 
 ### Setup do projeto no Git
 
