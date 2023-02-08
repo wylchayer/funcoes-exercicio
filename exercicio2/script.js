@@ -22,6 +22,7 @@ paridade(3)
 // d)
 function salarioLiquido(salarioBruto) {
     const salarioLiquido = salarioBruto * 0.90
-    console.log(`O salário líquido referente ao salário bruto de valor R$ ${salarioBruto} com desconto de 10% do INSS é: R$ ${salarioLiquido}.`)
+    return salarioLiquido
 }
-salarioLiquido(3000)
+
+console.log(`O salário líquido referente ao salário bruto informado com desconto de 10% do INSS é: R$ ${salarioLiquido(3000)}.`)

@@ -1,21 +1,21 @@
 function soma(num1,num2) {
-    const soma = num1 + num2
-    return soma
+    const somando = num1 + num2
+    return somando
 }
 
 function subtracao(num1,num2) {
-    const subtracao = num1 - num2
-    return subtracao
+    const subtraindo = num1 - num2
+    return subtraindo
 }
 
 function multiplicacao(num1,num2) {
-    const multiplicacao = num1 * num2
-    return multiplicacao
+    const multiplicando = num1 * num2
+    return multiplicando
 }
 
 function divisao(num1,num2) {
-    const divisao = num1 / num2
-    return divisao
+    const dividindo = num1 / num2
+    return dividindo
 }
 
 const num1 = Number(prompt(`Digite o primeiro número:`))
